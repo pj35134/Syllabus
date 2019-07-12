@@ -3,9 +3,14 @@
     min-height: 35px;
 
 }
-#tu_logo{
+#page-header{
 
-height: 140px;
+}
+#tu_logo{
+ margin-left:20px;
+ margin-right:auto;
+height: auto;
 width: 140px;
+
 
 }
